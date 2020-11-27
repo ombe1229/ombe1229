@@ -4,7 +4,7 @@
 # My cards
 ![Stats](https://github-readme-stats.vercel.app/api?username=ombe1229&theme=maroongold&show_icons=true&count_private=true&cache_seconds=1800)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ombe1229&theme=maroongold&langs_count=7&layout=compact&hide=jupyter%20notebook)<br>
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ombe&theme=maroongold)<br>
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ombe&theme=maroongold&v=2&layout=compact)<br>
 
 # Technique
 ## Languages
