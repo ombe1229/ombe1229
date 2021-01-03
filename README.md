@@ -1,5 +1,5 @@
 # Hi there 👋
-<h4>쓸데없는거만 만드는 고1</h>
+<h4>쓸데없는거만 만드는 고2</h>
 
 # My cards
 ![Stats](https://github-readme-stats.vercel.app/api?username=ombe1229&theme=maroongold&show_icons=true&count_private=true&cache_seconds=1800)<br>
