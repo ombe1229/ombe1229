@@ -5,6 +5,8 @@ I like to learn something.
 ![Stats](https://github-readme-stats.vercel.app/api?username=ombe1229&theme=dracula&show_icons=true&count_private=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ombe1229&theme=dracula&langs_count=7&layout=compact&hide=jupyter%20notebook)
 
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Python&message=Python&label=&color=14354C&labelColor=000000">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=C&message=C&label=&color=00599C&labelColor=000000">
