@@ -9,10 +9,10 @@ I like to learn something.
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Python&message=Python&label=&color=14354C&labelColor=000000">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933&labelColor=000000">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=c-sharp&message=c%23%20&&label=&color=239120&labelColor=000000">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6&labelColor=000000">
 </div>
 
